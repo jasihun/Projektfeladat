@@ -235,7 +235,7 @@ def main():
             print(kolcsonzo.berlesek_listazasa())
 
         elif valasztas == "5":
-            print("\nKöszönjük, hogy a mi rendszerünket használta! Bízunk benne, hogy elnyerte tetszését!")
+            print("\nKöszönjük, hogy a mi rendszerünket használta! Bízunk benne, hogy elnyerte tetszését és kapok egy j jegyet :)!")
             break
         else:
             print("\n[FIGYELMEZTETÉS] Érvénytelen menüpont! Kérjük, 1 és 5 közötti számot adjon meg.")
